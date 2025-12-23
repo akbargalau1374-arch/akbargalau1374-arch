@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nama Kamu
+# M ZAINUL AKBAR
 
 🎓 Mahasiswa / 💻 Web Developer / 🚀 Frontend Enthusiast  
 📍 Indonesia  
@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 - 🔭 Sedang belajar **Web Development**
 - 🌱 Fokus di **HTML, CSS, JavaScript**
-- 🎯 Tertarik pada **Frontend & UI/UX**
+- 🎯 Tertarik pada **FULL STACK WEB-DEVELOPMET**
 - ⚡ Fun fact: suka ngoding sambil dengerin musik
 
 ---
@@ -28,9 +28,9 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: emailkamu@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/username
-- 🌐 Portfolio: https://username.github.io
+- 📧 Email: akbarzainalapp@gmail.com
+- 💼 Instagram: https://instagram.com/in/akbrree__
+- 🌐 Portfolio: https://Akbarree.github.io
 
 ---
 
